@@ -1,4 +1,3 @@
-
 import React from 'react';
 import { Check, Zap, Clock, Lock, Globe, Shield } from 'lucide-react';
 
@@ -7,7 +6,7 @@ const Features = () => {
     {
       icon: <Zap className="h-6 w-6 text-brtech-600" />,
       title: 'Fast Performance',
-      description: 'Lightning-fast systems that won't slow down your business operations'
+      description: "Lightning-fast systems that won't slow down your business operations"
     },
     {
       icon: <Shield className="h-6 w-6 text-brtech-600" />,
